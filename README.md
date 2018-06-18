@@ -1,9 +1,9 @@
 # protocol-sniffer
 A tool to receive and send bytes over serial port.
 
-It was inspired by docklight tool, this is the wireframe made by me.
+It was inspired by docklight tool, this is the wireframe made by me own.
 
-![GUI sketch](img/first-sketch.png)
+![GUI sketch](img/first-sketch.jpg)
 
 ## Install:
 
